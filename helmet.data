@@ -1,0 +1,7 @@
+classes= 2
+train  = train.txt
+valid = val.txt
+#valid  = test_bdd_list.txt
+names = helmet.names
+backup = backup/
+prefix = ciou
